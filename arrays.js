@@ -31,5 +31,3 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
     array.slice()
     return array
   }
-  
-  function
