@@ -36,3 +36,7 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
     array.pop()
     return (array)
   }
+  
+  function removeElementFromEndOfArray(array) {
+    
+  }
